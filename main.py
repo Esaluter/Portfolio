@@ -14,3 +14,9 @@ with col2:
     My name is Evgeny, and this is my portfolio.
     """
     st.info(content)
+
+content2 = """
+Below you can find some apps i have built in Python. Feel free to contact me.
+"""
+
+st.write(content2)
